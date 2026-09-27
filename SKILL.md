@@ -8,13 +8,13 @@ description: >
   topic selection, trend adaptation, short-video scripting, filming direction,
   scene-based production, live-streaming language, lead conversion, or post-
   publication review.
-license: Non-Commercial Attribution License 1.0; see LICENSE.md
+license: Non-Commercial Distribution & Attribution License 1.0; see LICENSE.md. Commercial use of user-generated outputs is permitted; commercialization of the Skill itself is restricted.
 metadata:
   author: ganjiaolian
   author_name: 干教练
   wechat_name: 干教练
   wechat_id: ganjiaolian_ops
-  version: "0.1.0"
+  version: "0.1.1"
   language: zh-CN
   domain: low-altitude-industry
   primary_platform: Douyin
@@ -205,6 +205,10 @@ Slash commands are client-dependent. When a client supports slash commands, map 
 `/drone-content-coach rules`
 
 If a client does not support slash commands, interpret natural-language equivalents.
+
+## 12. License boundary
+
+The license applies to this Skill and its distributed components, not to the user's own business use of content produced with the Skill. Users may use Skill-assisted original scripts, topics, filming plans, live-streaming copy and similar outputs in commercial projects. The license does not grant rights to third-party copyrighted, trademarked, privacy, portrait, trade-secret or platform-owned material. See `LICENSE.md` and `NOTICE.md`.
 
 ## 12. Attribution
 
