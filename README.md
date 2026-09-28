@@ -58,29 +58,20 @@
 
 ## 使用方式
 
-不同 Agent 客户端的安装方式不同。完成安装后，如果客户端支持 slash commands，可以使用类似：
+在自己日常使用的 Agent 平台（如Codex/ChatGPT桌面版、WorkBuddy、豆包、Claude、Kimi等），输入以下文本：
 
 ```text
-/drone-content-coach init
+https://github.com/ganjiaolian-UAVcoach/drone-content-coach 请帮我将这个 skill 安装到我的技能中，以便于我后期的调用
 ```
+如果 Agent 不太智能，或者说输出的结果不如你意。
 
-首次使用建议先完成初始化。
-
-后续可使用：
+可使用以下文本：
 
 ```text
-/drone-content-coach diagnose
-/drone-content-coach persona
-/drone-content-coach topic
-/drone-content-coach script
-/drone-content-coach scene
-/drone-content-coach plan
-/drone-content-coach live
-/drone-content-coach review
-/drone-content-coach rules
+安装 github 上的 ganjiaolian-UAVcoach/dorne-cotent-coach 的 skill项目
 ```
 
-如果客户端不支持 slash commands，可直接用自然语言表达相同需求。
+如果 Agent 客户端还是未能如你意，或长时间卡住；请尝试停止进程并关闭客户端，再关闭加速器等平台，重新打开 Agent 客户端，再次进行安装。
 
 ## 设计理念
 
